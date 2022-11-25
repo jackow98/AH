@@ -1,4 +1,4 @@
-def insertion_sort(my_list: list):
+def insertion_sort(my_list):
     value = 0
     index = 0
     for i in range(1, len(my_list)):
